@@ -4,7 +4,7 @@ The banker’s algorithm is a resource allocation and deadlock avoidance algorit
 
 # Motivation
 
-The motivation behind the course was to apply the knowledge, understanding and skills learned within CP386 operating systems to a real project problem.  
+The motivation behind the project was to apply the knowledge, understanding and skills learned within CP386 operating systems course to a real project problem.  
 
 # Installation
 
@@ -29,12 +29,12 @@ INSERT LINK
 # About Developers
 [Andrew L BBA & CS WLU](https://github.com/Spartinii)
 <br>
-<br>
+
 <img src="https://cdn.shopify.com/s/files/1/0469/9098/3319/files/Casual_Profile_Square.JPG?v=1615929696" width="200" height="200" />
 
 # Credits
-[Geeks for Geeks](https://www.geeksforgeeks.org/)
-[Geeks for Geeks](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/)
+[Geeks for Geeks](https://www.geeksforgeeks.org/) <br>
+[Geeks for Geeks - Banker's Algorithm](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/)
 
 
 
