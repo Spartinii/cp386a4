@@ -1,4 +1,4 @@
-# cp386 - Bankers Algorithm
+# CP386 - Bankers Algorithm
 
 # Motivation
 
@@ -15,6 +15,8 @@
 # Use Examples
 
 # About Developers
+- Andrew Liutiev BBA & CS WLU 
+- <img src="https://cdn.shopify.com/s/files/1/0469/9098/3319/files/Casual_Profile_Square.JPG?v=1615929696" width="200" height="200" />
 
 # Credits
 
